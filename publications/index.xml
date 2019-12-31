@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Hugo Whisper Theme</title>
-    <link>bodenlab.github.io/publications/</link>
+    <link>http://bodenlab.github.io/publications/</link>
     <description>Recent content in Publications on Hugo Whisper Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="bodenlab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bodenlab.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Journals</title>
-      <link>bodenlab.github.io/publications/grasp/</link>
+      <link>http://bodenlab.github.io/publications/grasp/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>bodenlab.github.io/publications/grasp/</guid>
+      <guid>http://bodenlab.github.io/publications/grasp/</guid>
       <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
 Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
     </item>
     
     <item>
       <title>Book chapters</title>
-      <link>bodenlab.github.io/publications/grasp_suite/</link>
+      <link>http://bodenlab.github.io/publications/grasp_suite/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>bodenlab.github.io/publications/grasp_suite/</guid>
+      <guid>http://bodenlab.github.io/publications/grasp_suite/</guid>
       <description>Create a new Hugo site This will create a fresh Hugo site in the folder mynewsite.
 Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
     </item>

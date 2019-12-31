@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Hugo Whisper Theme</title>
-    <link>bodenlab.github.io/tools/</link>
+    <link>http://bodenlab.github.io/tools/</link>
     <description>Recent content in Tools on Hugo Whisper Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="bodenlab.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bodenlab.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GRASP</title>
-      <link>bodenlab.github.io/tools/grasp/</link>
+      <link>http://bodenlab.github.io/tools/grasp/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>bodenlab.github.io/tools/grasp/</guid>
+      <guid>http://bodenlab.github.io/tools/grasp/</guid>
       <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
 Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
     </item>
     
     <item>
       <title>GRASP-suite</title>
-      <link>bodenlab.github.io/tools/grasp_suite/</link>
+      <link>http://bodenlab.github.io/tools/grasp_suite/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>bodenlab.github.io/tools/grasp_suite/</guid>
+      <guid>http://bodenlab.github.io/tools/grasp_suite/</guid>
       <description>Create a new Hugo site This will create a fresh Hugo site in the folder mynewsite.
 Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
     </item>
     
     <item>
       <title>T-Gene</title>
-      <link>bodenlab.github.io/tools/t_gene/</link>
+      <link>http://bodenlab.github.io/tools/t_gene/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>bodenlab.github.io/tools/t_gene/</guid>
+      <guid>http://bodenlab.github.io/tools/t_gene/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>PhosphoPICK</title>
-      <link>bodenlab.github.io/tools/phosphopick/</link>
+      <link>http://bodenlab.github.io/tools/phosphopick/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>bodenlab.github.io/tools/phosphopick/</guid>
+      <guid>http://bodenlab.github.io/tools/phosphopick/</guid>
       <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements  Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
     </item>
     
     <item>
       <title>NSort/DB</title>
-      <link>bodenlab.github.io/tools/nsort_db/</link>
+      <link>http://bodenlab.github.io/tools/nsort_db/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>bodenlab.github.io/tools/nsort_db/</guid>
+      <guid>http://bodenlab.github.io/tools/nsort_db/</guid>
       <description>&lt;p&gt;The Boden Lab is a bioinformatics group at The University of Queensland, Australia.&lt;/p&gt;</description>
     </item>
     
