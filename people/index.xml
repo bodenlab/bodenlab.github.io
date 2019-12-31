@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Hugo Whisper Theme</title>
+    <link>bodenlab.github.io/people/</link>
+    <description>Recent content in People on Hugo Whisper Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="bodenlab.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mikael Boden (Group Leader)</title>
+      <link>bodenlab.github.io/people/mikael/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/mikael/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Alexandra Essebier</title>
+      <link>bodenlab.github.io/people/alex/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/alex/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Ariane Mora</title>
+      <link>bodenlab.github.io/people/ariane/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/ariane/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Brad Balderson</title>
+      <link>bodenlab.github.io/people/brad/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/brad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel Foley</title>
+      <link>bodenlab.github.io/people/gabe/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/gabe/</guid>
+      <description>GABE
+This is Gabe
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.</description>
+    </item>
+    
+    <item>
+      <title>Jhih-Siang (Sean) Lai</title>
+      <link>bodenlab.github.io/people/sean/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/sean/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Rhys Newell</title>
+      <link>bodenlab.github.io/people/rhys/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/rhys/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Woo Jun (Chris) Shim</title>
+      <link>bodenlab.github.io/people/woo_jun/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>bodenlab.github.io/people/woo_jun/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+  </channel>
+</rss>
