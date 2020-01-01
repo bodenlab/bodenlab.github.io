@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on Hugo Whisper Theme</title>
+    <title>People on Boden Lab</title>
     <link>http://bodenlab.github.io/people/</link>
-    <description>Recent content in People on Hugo Whisper Theme</description>
+    <description>Recent content in People on Boden Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Mikael Boden (Group Leader)</title>
+      <title>Associate Professor Mikael Boden (Group Leader)</title>
       <link>http://bodenlab.github.io/people/mikael/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/mikael/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <description>My PhD is from the University of Exeter, UK, in computer science, AI and machine learning. I was a postdoctoral research fellow in the School of Computer Science and Electrical Engineering at The University of Queensland.</description>
     </item>
     
     <item>
@@ -27,8 +26,9 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/alex/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <description>Email: a.essebier@uq.edu.au
+LinkedIn: AlexEssebier
+Alex completed her undergraduate degrees in Science (Biochemistry and Molecular Biology) and Information Technology at the University of Queensland in 2013 then her Master of Bioinformatics in 2015.</description>
     </item>
     
     <item>
@@ -37,8 +37,7 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/ariane/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <description>I graduated with Honors class 1 in Electrical and Computer Engineering at the University of Queensland., July 2019. My honours project was completed as part of Stemformatics, under the joint supervision of Associate Professor Mikael Boden &amp;amp; Rowland Mosbergen.</description>
     </item>
     
     <item>
@@ -47,7 +46,8 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/brad/</guid>
-      <description></description>
+      <description>Email: b.balderson@uq.edu.au
+My research area is the integration of scRNA-seq with other data types in order to understand genomic regulation at the single cell level. I believe this area of research will have a dramatic effect on all fronts of medicine, biotechnology, bioinformatics, and developmental biology.</description>
     </item>
     
     <item>
@@ -57,8 +57,9 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       
       <guid>http://bodenlab.github.io/people/gabe/</guid>
       <description>GABE
-This is Gabe
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.</description>
+Email: gabriel.foley@uqconnect.edu.au
+LinkedIn: gabrielfoley
+I&amp;rsquo;m currently pursuing my PhD under the supervision of Associate Professor Mikael Bodén and Professor Elizabeth Gillam at the School of Chemistry and Molecular Biosciences within the University of Queensland (UQ).</description>
     </item>
     
     <item>
@@ -67,8 +68,16 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/sean/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <description>==== Education and Training ====
+
+  
+
+ Jan 2016—
+present
+ The University of Queensland
+School of Chemistry &amp;amp; Molecular Biosciences PhD
+Australia Brisbane
+   Sep 2006—</description>
     </item>
     
     <item>
@@ -77,8 +86,9 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/rhys/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <description>E-mail: rhys.newell@uqconnect.edu.au
+LinkedIn: Rhys Newell
+Rhys has been working on assessing the reproducibility of genome wide binding assays like ChIP-seq and ChIA-PET when multiple replicates are present. He completed his honours thesis in semester 1 of 2018, at the university of Queensland under the supervision of Alex Essebier and Mikael Boden.</description>
     </item>
     
     <item>
@@ -87,8 +97,10 @@ Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>http://bodenlab.github.io/people/woo_jun/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <description>E-mail: woo.shim@uqconnect.edu.au
+LinkedIn:Woo Jun Shim
+Twitter: Woo Jun Shim
+Woo Jun is currently pursuing PhD under supervision of Assoc. Prof. Mikael Boden (SCMB, UQ) and Dr. Nathan Palpant (IMB, UQ). His current research work centres around epigenetic regulation of genes that drive cell fate, which can be summarised in a threefold approach.</description>
     </item>
     
   </channel>
