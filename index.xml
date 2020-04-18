@@ -49,11 +49,20 @@
     
     <item>
       <title>Journals</title>
-      <link>http://bodenlab.github.io/publications/grasp/</link>
+      <link>http://bodenlab.github.io/publications/journals/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>http://bodenlab.github.io/publications/grasp/</guid>
-      <description>Details of journal articles</description>
+      <guid>http://bodenlab.github.io/publications/journals/</guid>
+      <description>Journal articles published by group</description>
+    </item>
+    
+    <item>
+      <title>Refereed conference proceedings</title>
+      <link>http://bodenlab.github.io/publications/proceedings/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>http://bodenlab.github.io/publications/proceedings/</guid>
+      <description>Refereed conference proceedings published by group</description>
     </item>
     
     <item>
@@ -85,11 +94,11 @@
     
     <item>
       <title>Book chapters</title>
-      <link>http://bodenlab.github.io/publications/grasp_suite/</link>
+      <link>http://bodenlab.github.io/publications/book_chapters/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>http://bodenlab.github.io/publications/grasp_suite/</guid>
-      <description>Details of published book chapters</description>
+      <guid>http://bodenlab.github.io/publications/book_chapters/</guid>
+      <description>Book chapters published by group</description>
     </item>
     
     <item>
